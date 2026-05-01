@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Fatih Emre YILDIZ! 👋
 
-<!--
-**FEY1907/FEY1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 💻 **Computer Engineering Student** at European University of Lefke.
+- 🚀 Currently focusing on **Algorithms**, **C**, and **Python**.
+- 📚 Passionate about software development and eager to learn new technologies.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Languages:** C, Python (Learning)
+- **Tools:** VS Code, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- **Email:** fatihemrey313@gmail.com
+
+---
+*“The best way to predict the future is to invent it.”*
